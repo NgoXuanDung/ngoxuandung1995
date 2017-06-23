@@ -1,0 +1,106 @@
+package com.cdweb.service;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.cdweb.dao.QuestionDAO;
+import com.cdweb.domain.Question;
+
+@Service
+public class QuestionServiceImpl implements QuestionService {
+
+	@Autowired
+	QuestionDAO questionDAO;
+	
+	@Override
+	public List<Question> findAll() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Question> findLast(int first, int max) {
+		
+		return questionDAO.findLast(first, max);
+	}
+
+	@Override
+	public List<Question> findTopViews(int first, int max) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Question> findNoAnswers(int first, int max) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Question> findAllByUser(int uid) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Question> findAllByCategory(int cid) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Question> findAllByCategory(int cid, int first, int max) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Question> findAllByTag(String name) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Question> findAllByTag(String name, int first, int max) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Question> search(String q, int first, int max) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Question findOne(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public int count() {
+		return questionDAO.count();
+	}
+
+	@Override
+	public void create(Question question) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void upViews(int id) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void delete(Question question) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

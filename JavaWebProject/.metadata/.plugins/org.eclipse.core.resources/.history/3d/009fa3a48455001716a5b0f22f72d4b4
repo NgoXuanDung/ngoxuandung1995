@@ -1,0 +1,88 @@
+package com.cdweb.dao;
+
+import java.util.List;
+
+import javax.transaction.Transactional;
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Repository;
+
+import com.cdweb.domain.User;
+
+@Repository
+@Transactional
+public class UserDAOImpl implements UserDAO {
+
+	@Autowired
+	private SessionFactory sessionFactory;
+
+	@Override
+	public List<User> findAll() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<User> findLast(int limit) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<User> findTopPoint(int limit) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public User findOne(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public User findOne(String email) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public int count() {
+		Session session = sessionFactory.getCurrentSession();
+		String hql = "select count(*) " + "from User";
+		return ((Number) session.createQuery(hql).getSingleResult()).intValue();
+	}
+
+	@Override
+	public void create(User user) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void update(User user) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void upPoint(int uid, int point) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void downPoint(int uid, int point) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void delete(User user) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

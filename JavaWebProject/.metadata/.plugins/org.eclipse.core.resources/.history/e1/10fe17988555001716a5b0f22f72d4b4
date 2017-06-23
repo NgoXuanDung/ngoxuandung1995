@@ -1,0 +1,5 @@
+package com.cdweb.controller.admin;
+
+public class AdminUserController {
+
+}

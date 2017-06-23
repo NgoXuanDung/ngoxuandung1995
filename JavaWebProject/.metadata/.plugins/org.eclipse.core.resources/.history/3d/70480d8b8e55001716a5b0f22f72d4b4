@@ -1,0 +1,59 @@
+package com.cdweb.controller.admin;
+
+import java.util.List;
+
+import javax.validation.Valid;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.validation.BindingResult;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.servlet.mvc.support.RedirectAttributes;
+
+import com.cdweb.domain.User;
+import com.cdweb.service.UserService;
+import com.cdweb.validator.UserValidator;
+
+@Controller
+public class AdminUserController {
+	@Autowired
+	private UserService userService;
+
+	@Autowired
+	private UserValidator userValidator;
+
+	@GetMapping("/admin/user")
+	public String index(Model model) {
+		List<User> users = userService.findAll();
+
+		model.addAttribute("users", users);
+		return "user_list";
+	}
+
+	@GetMapping(value = "/admin/user/add")
+	public String add(Model model) {
+		model.addAttribute("user", new User());
+		return "user_form";
+	}
+
+	@PostMapping("/admin/user/save")
+	public String save(@Valid User user, BindingResult result, @RequestParam("role") String role, Model model,
+			RedirectAttributes redirect) {
+		userValidator.validate(user, result);
+		if (result.hasErrors()) {
+			return "user_form";
+		}
+
+		if (user.getId() == 0) {
+			userService.create(user, role);
+		} else {
+			userService.update(user, role);
+		}
+
+		redirect.addFlashAttribute("success", "Saved user " + user.getName() + " successfully!");
+		return "redirect:/admin/user";
+	}
+}

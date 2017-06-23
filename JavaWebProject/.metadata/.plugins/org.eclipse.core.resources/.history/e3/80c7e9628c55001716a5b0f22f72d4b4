@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE tiles-definitions PUBLIC  "-//Apache Software Foundation//DTD Tiles Configuration 3.0//EN"  "http://tiles.apache.org/dtds/tiles-config_3_0.dtd"> 
+<tiles-definitions>  
+	<!-- Admin Definition -->
+    <definition name="admin-definition"
+                template="/WEB-INF/tiles/layouts/admin.jsp">  
+        <put-attribute name="title" value="" />  
+        <put-attribute name="header" value="/WEB-INF/tiles/partials/admin/header.jsp" />  
+        <put-attribute name="sidebar" value="/WEB-INF/tiles/partials/admin/sidebar.jsp" />  
+        <put-attribute name="main" value="" />  
+        <put-attribute name="footer" value="/WEB-INF/tiles/partials/admin/footer.jsp" />  
+    </definition>
+    
+    <!-- Security Definition -->
+    <definition name="security-definition"
+                template="/WEB-INF/tiles/layouts/security.jsp">  
+        <put-attribute name="title" value="" />  
+        <put-attribute name="main" value="" /> 
+    </definition>  
+    
+    <!-- =================================Admin Pages================================== -->
+    
+      <!-- Dashboard Page -->
+    <definition name="dashboard" extends="admin-definition">  
+        <put-attribute name="title" value="Ask Me | Dashboard" />  
+        <put-attribute name="main" value="/WEB-INF/pages/admin/dashboard.jsp" />  
+    </definition>
+    
+    <!-- User List Page -->
+    <definition name="user_list" extends="admin-definition">  
+        <put-attribute name="title" value="Ask Me | User Manager" />  
+        <put-attribute name="main" value="/WEB-INF/pages/admin/user_list.jsp" />  
+    </definition>  
+    
+    <!-- User Form Page -->
+    <definition name="user_form" extends="admin-definition">  
+        <put-attribute name="title" value="Ask Me | User Manager" />  
+        <put-attribute name="main" value="/WEB-INF/pages/admin/user_form.jsp" />  
+    </definition>  
+    
+    <!-- User Profile Page -->
+    <definition name="admin_user_profile" extends="admin-definition">  
+        <put-attribute name="title" value="Ask Me | User Manager" />  
+        <put-attribute name="main" value="/WEB-INF/pages/admin/user_profile.jsp" />  
+    </definition>  
+</tiles-definitions>

@@ -1,0 +1,64 @@
+package com.cdweb.service;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.cdweb.dao.TagDAO;
+import com.cdweb.domain.Tag;
+
+@Service
+public class TagServiceImpl implements TagService {
+
+	@Autowired
+	TagDAO tagDAO;
+
+	@Override
+	public List<Tag> findAllApp() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Tag> findAllAdmin() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Tag findOne(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Tag findOne(String name) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public int count() {
+		return tagDAO.count();
+	}
+
+	@Override
+	public void create(Tag tag) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void update(Tag tag) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void delete(Tag tag) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

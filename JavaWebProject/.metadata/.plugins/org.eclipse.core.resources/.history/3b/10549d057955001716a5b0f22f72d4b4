@@ -1,0 +1,8 @@
+package com.cdweb.domain;
+
+import javax.persistence.Entity;
+
+
+public class CustomUserDetails {
+
+}

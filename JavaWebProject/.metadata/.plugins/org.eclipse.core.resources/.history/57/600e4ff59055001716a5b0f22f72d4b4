@@ -1,0 +1,57 @@
+package com.cdweb.service;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.cdweb.dao.CategoryDAO;
+import com.cdweb.domain.Category;
+
+@Service
+public class CategoryServiceImpl implements CategoryService{
+	@Autowired
+	CategoryDAO categoryDAO;
+
+	@Override
+	public List<Category> findAll() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Category findOne(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Category findOne(String name) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public int count() {
+		return categoryDAO.count();
+	}
+
+	@Override
+	public void create(Category category) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void update(Category category) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void delete(Category category) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

@@ -1,0 +1,70 @@
+package com.cdweb.domain;
+
+import java.io.Serializable;
+import java.util.HashSet;
+import java.util.Set;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.FetchType;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.JoinColumn;
+import javax.persistence.JoinTable;
+import javax.persistence.ManyToMany;
+import javax.persistence.Table;
+import javax.persistence.Transient;
+
+import org.hibernate.validator.constraints.Email;
+import org.hibernate.validator.constraints.Length;
+import org.hibernate.validator.constraints.NotEmpty;
+
+import com.cdweb.util.Const;
+
+@Entity
+@Table(name = "user")
+public class User implements Serializable {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	@Column(name = "id")
+	private int id;
+
+	@Column(name = "avatar", nullable = true)
+	private String avatar = Const.DEFAULT_AVATAR;
+
+	@NotEmpty
+	@Email
+	@Column(name = "email")
+	private String email;
+
+	@NotEmpty
+	@Column(name = "name")
+	private String name;
+
+	@NotEmpty
+	@Length(min = 6)
+	@Column(name = "password")
+	private String password;
+
+	@Transient
+	@NotEmpty
+	private String confirmPassword;
+
+	@Column(name = "point", nullable = true)
+	private int point;
+	
+	@ManyToMany(fetch = FetchType.LAZY)
+    @JoinTable(name = "user_role", 
+	    joinColumns = { @JoinColumn(name = "user_id") }, 
+	    inverseJoinColumns = { @JoinColumn(name = "role_id") }
+    )
+    private Set<Role> roles = new HashSet<>();
+
+}

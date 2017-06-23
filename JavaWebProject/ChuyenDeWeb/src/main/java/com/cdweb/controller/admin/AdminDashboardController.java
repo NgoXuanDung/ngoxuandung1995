@@ -1,0 +1,46 @@
+package com.cdweb.controller.admin;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
+
+import com.cdweb.domain.Question;
+import com.cdweb.domain.User;
+import com.cdweb.service.CategoryService;
+import com.cdweb.service.QuestionService;
+import com.cdweb.service.TagService;
+import com.cdweb.service.UserService;
+
+@Controller
+public class AdminDashboardController {
+	@Autowired
+	CategoryService categoryService;
+
+	@Autowired
+	QuestionService questionService;
+
+	@Autowired
+	UserService userService;
+
+	@Autowired
+	TagService tagService;
+
+	@GetMapping(value = "/admin")
+	public String index(Model model) {
+		List<Question> newQuestions = questionService.findLast(1, 10);
+		List<User> newUsers = userService.findLast(8);
+
+		model.addAttribute("countCategories", categoryService.count());
+		model.addAttribute("countQuestions", questionService.count());
+		model.addAttribute("countUsers", userService.count());
+		model.addAttribute("countTags", tagService.count());
+
+		model.addAttribute("newQuestions", newQuestions);
+		model.addAttribute("newUsers", newUsers);
+		return "dashboard";
+
+	}
+}

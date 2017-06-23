@@ -1,0 +1,70 @@
+package com.cdweb.dao;
+
+import java.util.List;
+
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Repository;
+import org.springframework.transaction.annotation.Transactional;
+
+import com.cdweb.domain.Tag;
+
+@Repository
+@Transactional
+public class TagDAOImpl implements TagDAO{
+
+	@Autowired
+	private SessionFactory sessionFactory;
+	
+	@Override
+	public List<Tag> findAllApp() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Tag> findAllAdmin() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Tag findOne(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Tag findOne(String name) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public int count() {
+		Session session = sessionFactory.getCurrentSession();
+		String hql = "select count(*) " + "from Tag";
+		return ((Number) session.createQuery(hql).getSingleResult()).intValue();
+	}
+
+	@Override
+	public void create(Tag tag) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void update(Tag tag) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void delete(Tag tag) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

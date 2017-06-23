@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE tiles-definitions PUBLIC  "-//Apache Software Foundation//DTD Tiles Configuration 3.0//EN"  "http://tiles.apache.org/dtds/tiles-config_3_0.dtd"> 
+<tiles-definitions>  
+	<!-- Admin Definition -->
+    <definition name="admin-definition"
+                template="/WEB-INF/tiles/layouts/admin.jsp">  
+        <put-attribute name="title" value="" />  
+        <put-attribute name="header" value="/WEB-INF/tiles/partials/admin/header.jsp" />  
+        <put-attribute name="sidebar" value="/WEB-INF/tiles/partials/admin/sidebar.jsp" />  
+        <put-attribute name="main" value="" />  
+        <put-attribute name="footer" value="/WEB-INF/tiles/partials/admin/footer.jsp" />  
+    </definition>
+    
+    <!-- Security Definition -->
+    <definition name="security-definition"
+                template="/WEB-INF/tiles/layouts/security.jsp">  
+        <put-attribute name="title" value="" />  
+        <put-attribute name="main" value="" /> 
+    </definition>
+    
+    <!-- Error Definition -->
+    <definition name="error-definition"
+                template="/WEB-INF/tiles/layouts/error.jsp">  
+        <put-attribute name="title" value="" />  
+        <put-attribute name="error-color" value="" />  
+        <put-attribute name="error-name" value="" /> 
+        <put-attribute name="error-message" value="" /> 
+    </definition>  
+    
+    <!-- =================================Security Pages================================== -->
+    
+    <!-- Login Page -->
+    <definition name="login" extends="security-definition">  
+        <put-attribute name="title" value="Ask Me | Login" />  
+        <put-attribute name="main" value="/WEB-INF/pages/app/login.jsp" />  
+    </definition>  
+    
+    <!-- Register Page -->
+    <definition name="register" extends="security-definition">  
+        <put-attribute name="title" value="Ask Me | Register" />  
+        <put-attribute name="main" value="/WEB-INF/pages/app/register.jsp" />  
+    </definition>  
+    
+    <!-- =================================Admin Pages================================== -->
+    
+      <!-- Dashboard Page -->
+    <definition name="dashboard" extends="admin-definition">  
+        <put-attribute name="title" value="Ask Me | Dashboard" />  
+        <put-attribute name="main" value="/WEB-INF/pages/admin/dashboard.jsp" />  
+    </definition>
+    
+    <!-- User List Page -->
+    <definition name="user_list" extends="admin-definition">  
+        <put-attribute name="title" value="Ask Me | User Manager" />  
+        <put-attribute name="main" value="/WEB-INF/pages/admin/user_list.jsp" />  
+    </definition>  
+    
+    <!-- User Form Page -->
+    <definition name="user_form" extends="admin-definition">  
+        <put-attribute name="title" value="Ask Me | User Manager" />  
+        <put-attribute name="main" value="/WEB-INF/pages/admin/user_form.jsp" />  
+    </definition>  
+    
+    <!-- User Profile Page -->
+    <definition name="admin_user_profile" extends="admin-definition">  
+        <put-attribute name="title" value="Ask Me | User Manager" />  
+        <put-attribute name="main" value="/WEB-INF/pages/admin/user_profile.jsp" />  
+    </definition>
+    
+    <!-- Category List Page -->
+    <definition name="category_list" extends="admin-definition">  
+        <put-attribute name="title" value="Ask Me | Category Manager" />  
+        <put-attribute name="main" value="/WEB-INF/pages/admin/category_list.jsp" />  
+    </definition>  
+    
+    <!-- Category Form Page -->
+    <definition name="category_form" extends="admin-definition">  
+        <put-attribute name="title" value="Ask Me | Category Manager" />  
+        <put-attribute name="main" value="/WEB-INF/pages/admin/category_form.jsp" />  
+    </definition>  
+    
+    <!-- Tag List Page -->
+    <definition name="tag_list" extends="admin-definition">  
+        <put-attribute name="title" value="Ask Me | Tag Manager" />  
+        <put-attribute name="main" value="/WEB-INF/pages/admin/tag_list.jsp" />  
+    </definition>  
+    
+    <!-- Tag Form Page -->
+    <definition name="tag_form" extends="admin-definition">  
+        <put-attribute name="title" value="Ask Me | Tag Manager" />  
+        <put-attribute name="main" value="/WEB-INF/pages/admin/tag_form.jsp" />  
+    </definition>  
+    
+    <!-- Question List Page -->
+    <definition name="question_list" extends="admin-definition">  
+        <put-attribute name="title" value="Ask Me | Question Manager" />  
+        <put-attribute name="main" value="/WEB-INF/pages/admin/question_list.jsp" />  
+    </definition>  
+    
+    <!-- Question Detail Page -->
+    <definition name="admin_question_detail" extends="admin-definition">  
+        <put-attribute name="title" value="Ask Me | Question Manager" />  
+        <put-attribute name="main" value="/WEB-INF/pages/admin/question_detail.jsp" />  
+    </definition> 
+</tiles-definitions>

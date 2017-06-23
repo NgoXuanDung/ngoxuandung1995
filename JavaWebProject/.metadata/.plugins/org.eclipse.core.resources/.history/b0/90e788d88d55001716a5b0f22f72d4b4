@@ -1,0 +1,124 @@
+package com.cdweb.dao;
+
+import java.util.List;
+
+import javax.transaction.Transactional;
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Repository;
+
+import com.cdweb.domain.Question;
+
+@Repository
+@Transactional
+public class QuestionDAOImpl implements QuestionDAO {
+
+	@Autowired
+	private SessionFactory sessionFactory;
+
+	@Override
+	public List<Question> findAll() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@SuppressWarnings("unchecked")
+	@Override
+	public List<Question> findLast(int first, int max) {
+		Session session = sessionFactory.getCurrentSession();
+
+    	String hql = "select q " +
+    				 "from Question q " +
+    				 "left join fetch q.user " +
+    				 "left join fetch q.category " +
+    				 "left join fetch q.answers " +
+    				 "order by q.id desc";
+    	
+    	return session.createQuery(hql)
+                .setFirstResult(first - 1)
+                .setMaxResults(max)
+                .getResultList();
+	}
+
+	@Override
+	public List<Question> findTopViews(int first, int max) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Question> findNoAnswers(int first, int max) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Question> findAllByUser(int uid) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Question> findAllByCategory(int cid) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Question> findAllByCategory(int cid, int first, int max) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Question> findAllByTag(String name) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Question> findAllByTag(String name, int first, int max) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Question> search(String q, int first, int max) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Question findOne(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public int count() {
+		Session session = sessionFactory.getCurrentSession();
+		String hql = "select count(*) " + "from Question";
+		return ((Number) session.createQuery(hql).getSingleResult()).intValue();
+	}
+
+	@Override
+	public void create(Question question) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void upViews(int id) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void delete(Question question) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

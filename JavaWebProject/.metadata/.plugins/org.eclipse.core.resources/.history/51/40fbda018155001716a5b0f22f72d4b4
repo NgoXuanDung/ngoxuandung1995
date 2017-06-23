@@ -1,0 +1,5 @@
+package com.cdweb.dao;
+
+public interface QuestionDAO {
+
+}

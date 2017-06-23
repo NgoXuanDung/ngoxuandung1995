@@ -1,0 +1,1214 @@
+2017-06-20 10:24:03,863 [Worker-10] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\JavaWebProject\ChuyenDeWeb\pom.xml
+2017-06-20 10:24:10,302 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.cdweb:ChuyenDeWeb:0.0.1-SNAPSHOT @ D:\JavaWebProject\ChuyenDeWeb\pom.xml.
+2017-06-20 10:24:12,179 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ChuyenDeWeb/src/main/java
+2017-06-20 10:24:12,180 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ChuyenDeWeb/src/main/resources
+2017-06-20 10:24:12,181 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ChuyenDeWeb/src/test/java
+2017-06-20 10:24:18,123 [Worker-10] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 14 sec
+2017-06-20 10:24:19,392 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 10:24:19,413 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 10:24:19,435 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 10:24:19,483 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 10:24:19,717 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 10:24:19,725 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 10:24:19,727 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 10:24:19,737 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 10:24:53,615 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 10:24:53,631 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 10:24:53,637 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 10:24:53,647 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 10:25:05,550 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 10:25:05,587 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 10:25:05,598 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 10:25:05,621 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 10:32:49,529 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.cdweb:ChuyenDeWeb:0.0.1-SNAPSHOT @ D:\JavaWebProject\ChuyenDeWeb\pom.xml.
+2017-06-20 10:32:51,629 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/4.2.2.RELEASE/spring-security-web-4.2.2.RELEASE.pom
+2017-06-20 10:32:51,932 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/4.2.2.RELEASE/spring-security-web-4.2.2.RELEASE.pom
+2017-06-20 10:32:52,182 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/4.3.5.RELEASE/spring-framework-bom-4.3.5.RELEASE.pom
+2017-06-20 10:32:52,788 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/4.3.5.RELEASE/spring-framework-bom-4.3.5.RELEASE.pom
+2017-06-20 10:32:53,022 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/4.2.2.RELEASE/spring-security-core-4.2.2.RELEASE.pom
+2017-06-20 10:32:53,820 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/4.2.2.RELEASE/spring-security-core-4.2.2.RELEASE.pom
+2017-06-20 10:32:54,119 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.5.RELEASE/spring-aop-4.3.5.RELEASE.pom
+2017-06-20 10:32:54,371 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.5.RELEASE/spring-aop-4.3.5.RELEASE.pom
+2017-06-20 10:32:54,613 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.5.RELEASE/spring-beans-4.3.5.RELEASE.pom
+2017-06-20 10:32:54,854 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.5.RELEASE/spring-beans-4.3.5.RELEASE.pom
+2017-06-20 10:32:55,096 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.5.RELEASE/spring-core-4.3.5.RELEASE.pom
+2017-06-20 10:32:55,340 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.5.RELEASE/spring-core-4.3.5.RELEASE.pom
+2017-06-20 10:32:55,581 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.5.RELEASE/spring-context-4.3.5.RELEASE.pom
+2017-06-20 10:32:55,827 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.5.RELEASE/spring-context-4.3.5.RELEASE.pom
+2017-06-20 10:32:56,071 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.3.5.RELEASE/spring-expression-4.3.5.RELEASE.pom
+2017-06-20 10:32:56,302 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.3.5.RELEASE/spring-expression-4.3.5.RELEASE.pom
+2017-06-20 10:32:56,542 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-web/4.3.5.RELEASE/spring-web-4.3.5.RELEASE.pom
+2017-06-20 10:32:56,807 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-web/4.3.5.RELEASE/spring-web-4.3.5.RELEASE.pom
+2017-06-20 10:32:57,050 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/4.2.2.RELEASE/spring-security-config-4.2.2.RELEASE.pom
+2017-06-20 10:32:57,317 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/4.2.2.RELEASE/spring-security-config-4.2.2.RELEASE.pom
+2017-06-20 10:32:57,575 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-taglibs/4.2.2.RELEASE/spring-security-taglibs-4.2.2.RELEASE.pom
+2017-06-20 10:32:57,830 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-taglibs/4.2.2.RELEASE/spring-security-taglibs-4.2.2.RELEASE.pom
+2017-06-20 10:32:58,078 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-acl/4.2.2.RELEASE/spring-security-acl-4.2.2.RELEASE.pom
+2017-06-20 10:32:58,618 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-acl/4.2.2.RELEASE/spring-security-acl-4.2.2.RELEASE.pom
+2017-06-20 10:32:58,863 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.3.5.RELEASE/spring-jdbc-4.3.5.RELEASE.pom
+2017-06-20 10:32:59,397 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.3.5.RELEASE/spring-jdbc-4.3.5.RELEASE.pom
+2017-06-20 10:32:59,640 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.3.5.RELEASE/spring-tx-4.3.5.RELEASE.pom
+2017-06-20 10:32:59,885 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.3.5.RELEASE/spring-tx-4.3.5.RELEASE.pom
+2017-06-20 10:33:00,136 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.2.10.Final/hibernate-core-5.2.10.Final.pom
+2017-06-20 10:33:00,375 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.2.10.Final/hibernate-core-5.2.10.Final.pom
+2017-06-20 10:33:00,639 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final.pom
+2017-06-20 10:33:00,925 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final.pom
+2017-06-20 10:33:01,284 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.20.0-GA/javassist-3.20.0-GA.pom
+2017-06-20 10:33:01,555 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.20.0-GA/javassist-3.20.0-GA.pom
+2017-06-20 10:33:01,822 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.0.1.Final/jboss-transaction-api_1.2_spec-1.0.1.Final.pom
+2017-06-20 10:33:02,056 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.0.1.Final/jboss-transaction-api_1.2_spec-1.0.1.Final.pom
+2017-06-20 10:33:02,326 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/20/jboss-parent-20.pom
+2017-06-20 10:33:02,826 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/20/jboss-parent-20.pom
+2017-06-20 10:33:03,086 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jandex/2.0.3.Final/jandex-2.0.3.Final.pom
+2017-06-20 10:33:03,348 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jandex/2.0.3.Final/jandex-2.0.3.Final.pom
+2017-06-20 10:33:03,600 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/12/jboss-parent-12.pom
+2017-06-20 10:33:04,573 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/12/jboss-parent-12.pom
+2017-06-20 10:33:04,828 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.3.0/classmate-1.3.0.pom
+2017-06-20 10:33:05,104 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.3.0/classmate-1.3.0.pom
+2017-06-20 10:33:05,519 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/5.0.1.Final/hibernate-commons-annotations-5.0.1.Final.pom
+2017-06-20 10:33:05,792 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/5.0.1.Final/hibernate-commons-annotations-5.0.1.Final.pom
+2017-06-20 10:33:06,110 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator/5.4.1.Final/hibernate-validator-5.4.1.Final.pom
+2017-06-20 10:33:06,427 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator/5.4.1.Final/hibernate-validator-5.4.1.Final.pom
+2017-06-20 10:33:06,658 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator-parent/5.4.1.Final/hibernate-validator-parent-5.4.1.Final.pom
+2017-06-20 10:33:07,241 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator-parent/5.4.1.Final/hibernate-validator-parent-5.4.1.Final.pom
+2017-06-20 10:33:07,748 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.3.1/classmate-1.3.1.pom
+2017-06-20 10:33:08,006 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.3.1/classmate-1.3.1.pom
+2017-06-20 10:33:08,246 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/6.0.6/mysql-connector-java-6.0.6.pom
+2017-06-20 10:33:08,573 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/6.0.6/mysql-connector-java-6.0.6.pom
+2017-06-20 10:33:08,790 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/taglibs/taglibs-standard-spec/1.2.5/taglibs-standard-spec-1.2.5.pom
+2017-06-20 10:33:09,073 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/taglibs/taglibs-standard-spec/1.2.5/taglibs-standard-spec-1.2.5.pom
+2017-06-20 10:33:09,537 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/taglibs/taglibs-standard/1.2.5/taglibs-standard-1.2.5.pom
+2017-06-20 10:33:09,777 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/taglibs/taglibs-standard/1.2.5/taglibs-standard-1.2.5.pom
+2017-06-20 10:33:10,008 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/taglibs/taglibs-parent/3/taglibs-parent-3.pom
+2017-06-20 10:33:10,284 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/taglibs/taglibs-parent/3/taglibs-parent-3.pom
+2017-06-20 10:33:10,537 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/taglibs/taglibs-standard-impl/1.2.5/taglibs-standard-impl-1.2.5.pom
+2017-06-20 10:33:10,807 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/taglibs/taglibs-standard-impl/1.2.5/taglibs-standard-impl-1.2.5.pom
+2017-06-20 10:33:11,631 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/2.4/commons-io-2.4.pom
+2017-06-20 10:33:11,913 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.4/commons-io-2.4.pom
+2017-06-20 10:33:12,123 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/25/commons-parent-25.pom
+2017-06-20 10:33:12,617 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/25/commons-parent-25.pom
+2017-06-20 10:33:14,551 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-orm/4.3.8.RELEASE/spring-orm-4.3.8.RELEASE.jar
+2017-06-20 10:33:17,381 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-orm/4.3.8.RELEASE/spring-orm-4.3.8.RELEASE.jar
+2017-06-20 10:33:17,565 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.3.8.RELEASE/spring-jdbc-4.3.8.RELEASE.jar
+2017-06-20 10:33:19,982 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.3.8.RELEASE/spring-jdbc-4.3.8.RELEASE.jar
+2017-06-20 10:33:20,251 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.3.8.RELEASE/spring-tx-4.3.8.RELEASE.jar
+2017-06-20 10:33:21,537 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.3.8.RELEASE/spring-tx-4.3.8.RELEASE.jar
+2017-06-20 10:33:21,793 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/4.2.2.RELEASE/spring-security-web-4.2.2.RELEASE.jar
+2017-06-20 10:33:23,588 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/4.2.2.RELEASE/spring-security-web-4.2.2.RELEASE.jar
+2017-06-20 10:33:23,831 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/4.2.2.RELEASE/spring-security-core-4.2.2.RELEASE.jar
+2017-06-20 10:33:26,283 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/4.2.2.RELEASE/spring-security-core-4.2.2.RELEASE.jar
+2017-06-20 10:33:27,601 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/4.2.2.RELEASE/spring-security-config-4.2.2.RELEASE.jar
+2017-06-20 10:33:30,056 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/4.2.2.RELEASE/spring-security-config-4.2.2.RELEASE.jar
+2017-06-20 10:33:30,270 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-taglibs/4.2.2.RELEASE/spring-security-taglibs-4.2.2.RELEASE.jar
+2017-06-20 10:33:30,847 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-taglibs/4.2.2.RELEASE/spring-security-taglibs-4.2.2.RELEASE.jar
+2017-06-20 10:33:31,096 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-acl/4.2.2.RELEASE/spring-security-acl-4.2.2.RELEASE.jar
+2017-06-20 10:33:31,617 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-acl/4.2.2.RELEASE/spring-security-acl-4.2.2.RELEASE.jar
+2017-06-20 10:33:31,805 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.2.10.Final/hibernate-core-5.2.10.Final.jar
+2017-06-20 10:34:03,830 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.2.10.Final/hibernate-core-5.2.10.Final.jar
+2017-06-20 10:34:04,033 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final.jar
+2017-06-20 10:34:04,594 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final.jar
+2017-06-20 10:34:04,780 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.20.0-GA/javassist-3.20.0-GA.jar
+2017-06-20 10:34:08,523 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.20.0-GA/javassist-3.20.0-GA.jar
+2017-06-20 10:34:08,716 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.0.1.Final/jboss-transaction-api_1.2_spec-1.0.1.Final.jar
+2017-06-20 10:34:09,224 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.0.1.Final/jboss-transaction-api_1.2_spec-1.0.1.Final.jar
+2017-06-20 10:34:09,514 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jandex/2.0.3.Final/jandex-2.0.3.Final.jar
+2017-06-20 10:34:10,418 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jandex/2.0.3.Final/jandex-2.0.3.Final.jar
+2017-06-20 10:34:10,680 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.3.0/classmate-1.3.0.jar
+2017-06-20 10:34:11,089 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.3.0/classmate-1.3.0.jar
+2017-06-20 10:34:11,353 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/5.0.1.Final/hibernate-commons-annotations-5.0.1.Final.jar
+2017-06-20 10:34:11,840 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/5.0.1.Final/hibernate-commons-annotations-5.0.1.Final.jar
+2017-06-20 10:34:12,089 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator/5.4.1.Final/hibernate-validator-5.4.1.Final.jar
+2017-06-20 10:34:15,685 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator/5.4.1.Final/hibernate-validator-5.4.1.Final.jar
+2017-06-20 10:34:15,880 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/6.0.6/mysql-connector-java-6.0.6.jar
+2017-06-20 10:34:24,504 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/6.0.6/mysql-connector-java-6.0.6.jar
+2017-06-20 10:34:24,731 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/taglibs/taglibs-standard-spec/1.2.5/taglibs-standard-spec-1.2.5.jar
+2017-06-20 10:34:25,316 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/taglibs/taglibs-standard-spec/1.2.5/taglibs-standard-spec-1.2.5.jar
+2017-06-20 10:34:25,511 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/taglibs/taglibs-standard-impl/1.2.5/taglibs-standard-impl-1.2.5.jar
+2017-06-20 10:34:26,596 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/taglibs/taglibs-standard-impl/1.2.5/taglibs-standard-impl-1.2.5.jar
+2017-06-20 10:34:26,789 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.7.6/jcl-over-slf4j-1.7.6.jar
+2017-06-20 10:34:27,161 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.7.6/jcl-over-slf4j-1.7.6.jar
+2017-06-20 10:34:27,348 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.6/slf4j-api-1.7.6.jar
+2017-06-20 10:34:27,871 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.6/slf4j-api-1.7.6.jar
+2017-06-20 10:34:28,069 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/2.4/commons-io-2.4.jar
+2017-06-20 10:34:29,124 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.4/commons-io-2.4.jar
+2017-06-20 10:34:40,218 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 10:34:40,263 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 10:34:40,270 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 10:34:40,286 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 10:34:40,287 [Worker-1] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ChuyenDeWeb
+2017-06-20 10:34:40,290 [Worker-1] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ChuyenDeWeb
+2017-06-20 10:34:40,312 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 10:34:42,020 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 10:34:42,032 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 10:34:42,035 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 10:34:42,044 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 10:36:00,111 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 10:36:00,113 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2017-06-20 10:36:20,224 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 10:36:20,234 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 10:36:20,236 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 10:36:20,245 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 10:37:28,781 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 10:37:28,781 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-20 10:38:14,034 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 10:38:14,041 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 10:38:14,043 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 10:38:14,050 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 10:39:00,583 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 10:39:00,673 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 10:39:00,675 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 10:39:00,683 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 10:40:53,924 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 10:40:53,943 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 10:40:53,946 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 10:40:53,956 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 10:40:58,151 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 10:40:58,162 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 10:40:58,164 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 10:40:58,172 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 10:43:10,315 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 10:43:10,332 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-20 10:43:10,370 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 10:43:10,377 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 10:43:58,324 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 10:43:58,438 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-20 10:43:58,443 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 10:43:58,452 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 10:52:51,433 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 10:52:51,463 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-20 10:52:51,466 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 10:52:51,489 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 10:53:15,789 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 10:53:15,798 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-20 10:53:15,800 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 10:53:15,806 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 10:53:27,505 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 10:53:27,515 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-20 10:53:27,520 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 10:53:27,533 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 10:59:14,241 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 10:59:14,278 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-20 10:59:14,280 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 10:59:14,305 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 11:02:50,794 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 11:02:50,803 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-20 11:02:50,808 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 11:02:50,815 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 11:04:50,137 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 11:04:50,145 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 11:04:50,147 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 11:04:50,154 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 11:05:42,632 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 11:05:42,644 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 11:05:42,649 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 11:05:42,659 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 11:06:45,251 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 11:06:45,265 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 11:06:45,268 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 11:06:45,281 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 11:09:03,274 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 11:09:03,285 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 11:09:03,287 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 11:09:03,300 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 11:12:14,947 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 11:12:14,954 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 11:12:14,956 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 11:12:14,964 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 11:12:34,989 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 11:12:34,996 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 11:12:34,998 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 11:12:35,004 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 11:13:21,629 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 11:13:21,642 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 11:13:21,644 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 11:13:21,652 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 11:13:41,963 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 11:13:41,989 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 11:13:41,995 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 11:13:42,012 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 11:24:46,916 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 11:24:46,924 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 11:24:46,925 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 11:24:46,931 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 11:25:05,534 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 11:25:05,548 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 11:25:05,551 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 11:25:05,565 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 11:35:55,165 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 11:35:55,181 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 11:35:55,184 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 11:35:55,192 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 11:37:24,418 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 11:37:24,427 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 11:37:24,430 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 11:37:24,440 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 11:37:41,021 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 11:37:41,032 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 11:37:41,035 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 11:37:41,057 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 11:38:37,774 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 11:38:37,787 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 11:38:37,789 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 11:38:37,796 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 11:39:14,400 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 11:39:14,415 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 11:39:14,418 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 11:39:14,432 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 11:39:40,323 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 11:39:40,330 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 11:39:40,332 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 11:39:40,338 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 11:40:04,187 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 11:40:04,202 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 11:40:04,205 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 11:40:04,213 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 11:44:48,571 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 11:44:48,585 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 11:44:48,588 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 11:44:48,605 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 11:45:16,660 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 11:45:16,668 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 11:45:16,671 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 11:45:16,681 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 11:54:28,479 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 11:54:28,485 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 11:54:28,487 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 11:54:28,492 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 11:54:43,819 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 11:54:43,827 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 11:54:43,829 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 11:54:43,836 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:00:55,558 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:00:55,565 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:00:55,568 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:00:55,573 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:01:51,653 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:01:51,662 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:01:51,668 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:01:51,679 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:02:17,471 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:02:17,478 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:02:17,480 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:02:17,489 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:02:34,714 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:02:34,720 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:02:34,722 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:02:34,728 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:02:52,045 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:02:52,052 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:02:52,053 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:02:52,061 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:04:56,340 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:04:56,347 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:04:56,349 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:04:56,355 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:05:29,268 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:05:29,276 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:05:29,277 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:05:29,285 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:08:21,499 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:08:21,506 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:08:21,507 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:08:21,513 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:08:37,434 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:08:37,440 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:08:37,441 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:08:37,447 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:08:52,478 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:08:52,484 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:08:52,486 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:08:52,492 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:09:30,999 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:09:31,007 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:09:31,008 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:09:31,016 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:09:46,424 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:09:46,431 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:09:46,433 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:09:46,440 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:09:55,698 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:09:55,704 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:09:55,706 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:09:55,712 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:10:43,956 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:10:43,963 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:10:43,964 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:10:43,970 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:10:51,446 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:10:51,453 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:10:51,455 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:10:51,461 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:12:00,759 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:12:00,765 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:12:00,767 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:12:00,776 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:15:58,752 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:15:58,758 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:15:58,760 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:15:58,765 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:16:01,785 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:16:01,795 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:16:01,796 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:16:01,805 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:18:18,732 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:18:18,749 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:18:18,753 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:18:18,767 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:18:21,884 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:18:21,893 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:18:21,895 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:18:21,901 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:20:26,725 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:20:26,731 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:20:26,733 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:20:26,738 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:20:34,757 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:20:34,763 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:20:34,765 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:20:34,771 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:22:35,922 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:22:35,932 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:22:35,935 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:22:35,946 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:26:14,786 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:26:14,792 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:26:14,794 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:26:14,801 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:26:33,493 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:26:33,507 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:26:33,510 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:26:33,519 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:26:51,027 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:26:51,034 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:26:51,036 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:26:51,047 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:27:21,957 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:27:21,964 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:27:21,966 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:27:21,973 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:29:05,084 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:29:05,094 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:29:05,095 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:29:05,102 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:29:33,720 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:29:33,739 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:29:33,743 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:29:33,750 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:30:00,432 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:30:00,439 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:30:00,441 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:30:00,447 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:30:09,832 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:30:09,840 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 12:30:09,841 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:30:09,851 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:31:23,302 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:31:23,309 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 12:31:23,311 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:31:23,320 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:34:32,302 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:34:32,313 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 12:34:32,315 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:34:32,327 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:34:43,482 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:34:43,489 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 12:34:43,490 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:34:43,496 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:34:51,542 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:34:51,558 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 12:34:51,560 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:34:51,566 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:35:11,194 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:35:11,200 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 12:35:11,202 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:35:11,208 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:36:55,754 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:36:55,764 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 12:36:55,765 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:36:55,774 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:37:30,379 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:37:30,385 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 12:37:30,386 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:37:30,392 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:38:32,779 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:38:32,789 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 12:38:32,790 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:38:32,799 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:39:08,722 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:39:08,729 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 12:39:08,730 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:39:08,736 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:39:34,870 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:39:34,878 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 12:39:34,881 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:39:34,896 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:40:55,416 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:40:55,435 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 12:40:55,439 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:40:55,455 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:42:39,809 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:42:39,820 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:42:39,822 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:42:39,831 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:43:43,430 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:43:43,437 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:43:43,439 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:43:43,445 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:43:45,540 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:43:45,556 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 12:43:45,558 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:43:45,574 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:43:51,768 [Worker-77] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 12:43:51,768 [Worker-77] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2017-06-20 12:43:56,502 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:43:56,514 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 12:43:56,516 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:43:56,526 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:44:03,873 [Worker-80] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 12:44:03,873 [Worker-80] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-20 12:47:06,230 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:47:06,239 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 12:47:06,241 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:47:06,250 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:48:04,023 [Worker-73] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 12:48:04,023 [Worker-73] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-20 12:51:41,044 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:51:41,054 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:51:41,056 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:51:41,068 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:52:28,821 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:52:28,830 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:52:28,832 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:52:28,848 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:53:03,604 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:53:03,610 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:53:03,611 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:53:03,617 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:53:13,817 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:53:13,832 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:53:13,835 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:53:13,848 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:54:22,636 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:54:22,642 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:54:22,644 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:54:22,650 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:55:37,233 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:55:37,239 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:55:37,241 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:55:37,249 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:57:11,650 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:57:11,656 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:57:11,658 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:57:11,664 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:57:31,700 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:57:31,714 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:57:31,717 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:57:31,728 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:58:19,024 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:58:19,030 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:58:19,031 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:58:19,037 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:58:35,818 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:58:35,825 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:58:35,827 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:58:35,836 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:58:52,398 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:58:52,406 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:58:52,408 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:58:52,416 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:59:11,772 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:59:11,779 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:59:11,780 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:59:11,786 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:59:34,900 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:59:34,909 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:59:34,911 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:59:34,919 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 12:59:50,179 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:59:50,189 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 12:59:50,191 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 12:59:50,203 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:00:04,513 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:00:04,519 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:00:04,521 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:00:04,527 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:00:30,235 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:00:30,242 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:00:30,244 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:00:30,251 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:00:43,004 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:00:43,016 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:00:43,018 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:00:43,029 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:00:57,839 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:00:57,848 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:00:57,849 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:00:57,855 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:01:12,835 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:01:12,849 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:01:12,851 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:01:12,867 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:01:28,295 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:01:28,302 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:01:28,303 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:01:28,311 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:01:42,706 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:01:42,712 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:01:42,714 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:01:42,720 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:01:59,367 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:01:59,379 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:01:59,381 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:01:59,390 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:02:19,259 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:02:19,267 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:02:19,268 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:02:19,277 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:02:33,823 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:02:33,830 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:02:33,831 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:02:33,837 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:03:19,476 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:03:19,489 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:03:19,491 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:03:19,499 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:03:54,236 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:03:54,243 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:03:54,245 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:03:54,251 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:04:06,147 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:04:06,153 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:04:06,155 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:04:06,161 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:04:34,951 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:04:34,958 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:04:34,960 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:04:34,968 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:04:54,379 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:04:54,387 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:04:54,388 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:04:54,398 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:05:15,608 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:05:15,616 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:05:15,618 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:05:15,624 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:05:31,530 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:05:31,536 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:05:31,538 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:05:31,543 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:06:00,688 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:06:00,695 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:06:00,697 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:06:00,703 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:06:13,259 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:06:13,268 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:06:13,270 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:06:13,279 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:06:30,795 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:06:30,801 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:06:30,802 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:06:30,808 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:06:49,828 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:06:49,837 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:06:49,839 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:06:49,845 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:07:03,015 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:07:03,025 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:07:03,027 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:07:03,036 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:07:16,789 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:07:16,795 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:07:16,796 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:07:16,802 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:07:36,468 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:07:36,480 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:07:36,481 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:07:36,488 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:07:50,043 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:07:50,050 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:07:50,051 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:07:50,061 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:08:04,859 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:08:04,865 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:08:04,867 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:08:04,873 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:08:25,381 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:08:25,390 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:08:25,391 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:08:25,398 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:08:36,451 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:08:36,462 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:08:36,465 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:08:36,472 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:08:50,921 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:08:50,927 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:08:50,929 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:08:50,936 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:09:08,462 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:09:08,476 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:09:08,478 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:09:08,487 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:09:24,274 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:09:24,282 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:09:24,283 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:09:24,289 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:09:45,141 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:09:45,148 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:09:45,150 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:09:45,156 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:11:11,296 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:11:11,304 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:11:11,305 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:11:11,314 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:11:17,739 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:11:17,745 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:11:17,747 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:11:17,752 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:11:37,104 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:11:37,110 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:11:37,111 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:11:37,117 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:12:05,432 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:12:05,438 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:12:05,439 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:12:05,445 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:12:43,899 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:12:43,907 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:12:43,908 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:12:43,914 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:12:50,993 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:12:50,999 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:12:51,001 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:12:51,009 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:13:48,677 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:13:48,684 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:13:48,685 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:13:48,691 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:15:51,996 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:15:52,002 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:15:52,003 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:15:52,009 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:16:06,222 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:16:06,230 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:16:06,232 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:16:06,238 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:16:34,601 [Worker-71] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 13:16:34,602 [Worker-71] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-20 13:16:44,026 [Worker-71] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 13:16:44,027 [Worker-71] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-20 13:17:54,253 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:17:54,260 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:17:54,262 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:17:54,271 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:17:57,227 [Worker-87] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 13:17:57,227 [Worker-87] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-20 13:20:03,460 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:20:03,474 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 13:20:03,476 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:20:03,486 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:20:05,606 [Worker-71] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 13:20:05,606 [Worker-71] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-20 13:21:00,858 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:21:00,866 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 13:21:00,868 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:21:00,876 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:21:15,815 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:21:15,822 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 13:21:15,824 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:21:15,831 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:21:19,007 [Worker-88] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 13:21:19,007 [Worker-88] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-20 13:23:43,165 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:23:43,175 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:23:43,177 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:23:43,187 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:25:31,911 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:25:31,921 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:25:31,922 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:25:31,929 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:26:01,419 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:26:01,426 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:26:01,428 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:26:01,437 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:26:08,243 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:26:08,265 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:26:08,268 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:26:08,275 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:27:37,622 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:27:37,629 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:27:37,631 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:27:37,639 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:29:47,021 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:29:47,028 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:29:47,029 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:29:47,035 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:29:51,623 [Worker-86] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 13:29:51,623 [Worker-86] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-20 13:31:13,315 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:31:13,324 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:31:13,326 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:31:13,332 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:32:55,767 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:32:55,774 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:32:55,775 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:32:55,781 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:33:27,779 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:33:27,787 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:33:27,789 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:33:27,798 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:34:33,536 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:34:33,543 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:34:33,545 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:34:33,552 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:36:21,722 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:36:21,728 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:36:21,730 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:36:21,735 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:36:27,296 [Worker-72] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 13:36:27,296 [Worker-72] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-20 13:37:20,774 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:37:20,781 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:37:20,782 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:37:20,788 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:38:44,332 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:38:44,339 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:38:44,340 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:38:44,346 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:39:10,816 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:39:10,823 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:39:10,825 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:39:10,830 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:40:15,139 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:40:15,145 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:40:15,147 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:40:15,153 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:41:25,886 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:41:25,892 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:41:25,893 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:41:25,899 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:41:29,411 [Worker-88] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 13:41:29,411 [Worker-88] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-20 13:44:25,351 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:44:25,360 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:44:25,362 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:44:25,371 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:45:30,041 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:45:30,047 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:45:30,049 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:45:30,054 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:45:40,914 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:45:40,921 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:45:40,922 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:45:40,931 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:46:35,832 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:46:35,839 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:46:35,840 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:46:35,846 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:47:14,803 [Worker-77] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 13:47:14,803 [Worker-77] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-20 13:49:44,720 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:49:44,727 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:49:44,728 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:49:44,734 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:49:52,912 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:49:52,919 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:49:52,920 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:49:52,927 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:50:24,547 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:50:24,553 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:50:24,554 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:50:24,560 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:51:16,668 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:51:16,676 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:51:16,678 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:51:16,684 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:51:18,331 [Worker-72] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 13:51:18,331 [Worker-72] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-20 13:53:50,089 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:53:50,103 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 13:53:50,106 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:53:50,118 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:54:40,539 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:54:40,545 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 13:54:40,546 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:54:40,555 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:55:26,346 [Worker-92] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.cdweb:ChuyenDeWeb:0.0.1-SNAPSHOT @ D:\JavaWebProject\ChuyenDeWeb\pom.xml.
+2017-06-20 13:55:28,627 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:55:28,635 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 13:55:28,637 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:55:28,643 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:55:28,643 [Worker-92] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ChuyenDeWeb
+2017-06-20 13:55:28,644 [Worker-92] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ChuyenDeWeb
+2017-06-20 13:55:28,650 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:56:14,328 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:56:14,345 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:56:14,361 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:56:14,372 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:56:33,102 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:56:33,109 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:56:33,110 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:56:33,116 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:57:48,251 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:57:48,322 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:57:48,325 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:57:48,339 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:58:29,498 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:58:29,504 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:58:29,506 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:58:29,514 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:58:49,758 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:58:49,773 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 13:58:49,777 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 13:58:49,790 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 13:58:53,866 [Worker-81] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 13:58:53,866 [Worker-81] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-20 13:59:11,801 [Worker-85] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 13:59:11,801 [Worker-85] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-20 14:00:51,597 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:00:51,606 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 14:00:51,608 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:00:51,617 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 14:00:56,298 [Worker-91] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 14:00:56,298 [Worker-91] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-20 14:03:26,747 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:03:26,756 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 14:03:26,757 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:03:26,763 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 14:03:30,896 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:03:30,903 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 14:03:30,904 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:03:30,910 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 14:04:43,417 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:04:43,424 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 14:04:43,426 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:04:43,434 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 14:04:49,620 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:04:49,629 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 14:04:49,631 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:04:49,637 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 14:05:49,908 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:05:49,915 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 14:05:49,916 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:05:49,922 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 14:05:54,148 [Worker-85] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 14:05:54,148 [Worker-85] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-20 14:06:02,087 [Worker-84] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 14:06:02,087 [Worker-84] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-20 14:10:06,998 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:10:07,005 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 14:10:07,006 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:10:07,012 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 14:12:07,366 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:12:07,372 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 14:12:07,373 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:12:07,380 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 14:13:23,506 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:13:23,513 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 14:13:23,515 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:13:23,523 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 14:13:26,711 [Worker-95] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 14:13:26,711 [Worker-95] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-20 14:16:04,330 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:16:04,337 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 14:16:04,341 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:16:04,348 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 14:18:06,773 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:18:06,779 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 14:18:06,780 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:18:06,786 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 14:18:09,615 [Worker-99] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 14:18:09,615 [Worker-99] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-20 14:18:17,301 [Worker-97] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 14:18:17,301 [Worker-97] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-20 14:30:23,785 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:30:23,830 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 14:30:23,832 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:30:23,838 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 14:30:44,914 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:30:44,921 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 14:30:44,922 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:30:44,928 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 14:30:46,823 [Worker-101] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 14:30:46,823 [Worker-101] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-20 14:31:01,581 [Worker-101] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 14:31:01,581 [Worker-101] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-20 14:34:50,585 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:34:50,592 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 14:34:50,594 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:34:50,600 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 14:34:54,140 [Worker-97] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 14:34:54,140 [Worker-97] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-20 14:35:01,485 [Worker-103] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 14:35:01,485 [Worker-103] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-20 14:39:56,940 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:39:56,948 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 14:39:56,949 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:39:56,956 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 14:41:45,694 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:41:45,703 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 14:41:45,705 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:41:45,714 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 14:41:50,750 [Worker-101] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 14:41:50,750 [Worker-101] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-20 14:43:22,502 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:43:22,519 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 14:43:22,521 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:43:22,529 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 14:43:54,291 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:43:54,299 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 14:43:54,301 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:43:54,309 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 14:43:56,750 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:43:56,759 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 14:43:56,763 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:43:56,771 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 14:45:10,414 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:45:10,428 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 14:45:10,429 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:45:10,438 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 14:45:52,784 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:45:52,790 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 14:45:52,791 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:45:52,796 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 14:47:01,161 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:47:01,167 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 14:47:01,168 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:47:01,176 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 14:47:17,294 [Worker-111] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 14:47:17,294 [Worker-111] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-20 14:47:25,854 [Worker-94] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 14:47:25,854 [Worker-94] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-20 14:51:28,346 [Worker-113] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 14:51:28,346 [Worker-113] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-20 14:51:28,548 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:51:28,603 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 14:51:28,605 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:51:28,619 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 14:52:16,521 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:52:16,528 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 14:52:16,530 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:52:16,537 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 14:55:37,125 [Worker-111] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 14:55:37,125 [Worker-111] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-20 14:55:37,317 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:55:37,328 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 14:55:37,330 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 14:55:37,341 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 15:00:36,723 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:00:36,729 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 15:00:36,730 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:00:36,736 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 15:01:13,818 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:01:13,825 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 15:01:13,827 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:01:13,837 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 15:01:32,302 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:01:32,308 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 15:01:32,310 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:01:32,316 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 15:01:47,165 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:01:47,172 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 15:01:47,173 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:01:47,178 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 15:01:51,814 [Worker-104] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 15:01:51,814 [Worker-104] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-20 15:03:11,885 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:03:11,896 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 15:03:11,897 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:03:11,904 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 15:03:32,463 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:03:32,478 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 15:03:32,480 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:03:32,495 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 15:03:35,893 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:03:35,899 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 15:03:35,900 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:03:35,908 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 15:03:54,586 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:03:54,599 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 15:03:54,600 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:03:54,609 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 15:03:58,203 [Worker-111] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 15:03:58,203 [Worker-111] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-20 15:06:29,219 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:06:29,225 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 15:06:29,227 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:06:29,232 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 15:06:35,421 [Worker-107] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 15:06:35,421 [Worker-107] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-20 15:08:44,409 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:08:44,415 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 15:08:44,417 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:08:44,426 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 15:09:04,766 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:09:04,773 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 15:09:04,774 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:09:04,780 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 15:09:36,217 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:09:36,227 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 15:09:36,229 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:09:36,238 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 15:10:03,465 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:10:03,482 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 15:10:03,485 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:10:03,499 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 15:10:15,302 [Worker-112] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 15:10:15,303 [Worker-112] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-20 15:10:22,034 [Worker-107] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 15:10:22,034 [Worker-107] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-20 15:11:53,092 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:11:53,099 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 15:11:53,100 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:11:53,106 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 15:12:22,507 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:12:22,514 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 15:12:22,515 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:12:22,522 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 15:12:25,770 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:12:25,784 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 15:12:25,787 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:12:25,804 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 15:12:30,677 [Worker-116] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 15:12:30,678 [Worker-116] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-20 15:14:55,805 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:14:55,812 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 15:14:55,813 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:14:55,819 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 15:15:06,069 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:15:06,076 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 15:15:06,078 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:15:06,083 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 15:15:44,382 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:15:44,389 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 15:15:44,391 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:15:44,397 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 15:15:56,578 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:15:56,584 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 15:15:56,585 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:15:56,592 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 15:16:34,186 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:16:34,192 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 15:16:34,193 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:16:34,199 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 15:17:06,734 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:17:06,740 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 15:17:06,741 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:17:06,747 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 15:17:29,832 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:17:29,838 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 15:17:29,839 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:17:29,845 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 15:17:54,736 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:17:54,743 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 15:17:54,744 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:17:54,750 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 15:18:11,243 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:18:11,250 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 15:18:11,251 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:18:11,257 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 15:18:17,263 [Worker-117] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 15:18:17,263 [Worker-117] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-20 15:18:25,268 [Worker-119] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 15:18:25,268 [Worker-119] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-20 15:21:59,131 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:21:59,146 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 15:21:59,149 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:21:59,165 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 15:22:26,804 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:22:26,810 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 15:22:26,811 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:22:26,817 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 15:22:34,679 [Worker-117] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 15:22:34,679 [Worker-117] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-20 15:23:16,631 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:23:16,639 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 15:23:16,640 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:23:16,647 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 15:23:20,271 [Worker-117] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 15:23:20,271 [Worker-117] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-20 15:26:49,300 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:26:49,311 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 15:26:49,312 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:26:49,318 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 15:27:06,355 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:27:06,363 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 15:27:06,365 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:27:06,373 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 15:27:36,811 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:27:36,817 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 15:27:36,818 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:27:36,824 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 15:28:22,016 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:28:22,022 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 15:28:22,023 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:28:22,030 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 15:28:58,405 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:28:58,425 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 15:28:58,427 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:28:58,435 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 15:29:06,471 [Worker-107] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 15:29:06,471 [Worker-107] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-20 15:30:31,699 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:30:31,706 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 15:30:31,708 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:30:31,714 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 15:31:23,184 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:31:23,193 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 15:31:23,195 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:31:23,204 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 15:31:41,102 [Worker-120] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:31:41,109 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 15:31:41,110 [Worker-120] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:31:41,116 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 15:32:11,456 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:32:11,463 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 15:32:11,464 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:32:11,473 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 15:32:24,578 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:32:24,586 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-20 15:32:24,587 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:32:24,593 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 15:32:28,596 [Worker-117] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 15:32:28,596 [Worker-117] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-20 15:32:35,637 [Worker-117] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 15:32:35,637 [Worker-117] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-20 15:33:31,405 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:33:31,411 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-20 15:33:31,412 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-20 15:33:31,418 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-20 15:33:34,303 [Worker-119] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-20 15:33:34,303 [Worker-119] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-21 19:41:11,277 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-21 19:41:11,329 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-21 19:41:11,341 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-21 19:41:11,348 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-22 21:50:40,063 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-22 21:50:40,140 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-06-22 21:50:40,174 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-22 21:50:40,185 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-22 21:50:44,571 [Worker-32] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-22 21:50:44,573 [Worker-32] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-22 21:55:17,680 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-22 21:55:17,681 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-22 21:57:50,810 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWebProject\ChuyenDeWeb
+2017-06-22 21:57:50,810 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B tomcat7:run
+2017-06-22 22:08:46,773 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-22 22:08:46,788 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 22:08:46,791 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-22 22:08:46,799 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-22 22:23:03,160 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-22 22:23:03,302 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 22:23:03,305 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-22 22:23:03,312 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-22 22:23:21,949 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-22 22:23:21,964 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 22:23:21,966 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-22 22:23:21,975 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-22 22:23:45,955 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-22 22:23:45,996 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 22:23:45,998 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-22 22:23:46,005 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
+2017-06-22 22:24:49,097 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-22 22:24:49,106 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-22 22:24:49,108 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-22 22:24:49,123 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWebProject\ChuyenDeWeb\src\test\resources
